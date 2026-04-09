@@ -1,4 +1,5 @@
 🌿 EmoLearn
+
 EmoLearn is an emotion-aware chat application that understands how users feel, learns from feedback, and responds with empathy.
 Instead of just chatting, EmoLearn detects emotional context, adapts over time, and creates a more human, supportive experience.
 
